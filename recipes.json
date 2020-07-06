@@ -1,0 +1,55 @@
+[
+  {
+    "id": "",
+    "defaultGroupsize": 4,
+    "name": "Spaghetti Bolognese",
+    "duration": 30,
+    "categories": [],
+    "instructions": [
+      "Eine tiefe Pfanne wird empfohlen. Zwiebeln kleinwürfeln und in Öl ein wenig anbraten. Das Hackfleisch dazugeben und schön anbraten.",
+      "Mit Pfeffer, Salz, Pizzegewürz (oder eben andere Kräuter wie Basilikum, Majoran, etc.) würzen und dann mit den diversen Formen der Tomaten und etwas Wasser gut zusammenrühren.",
+      "Nun die Nudeln aufsetzen, so dass die Soße auf mittlerer Hitze gut durchziehen kann. Fertig.",
+      "Die Tomatensachen können nach Lust und Verfügbarkeit variiert werden. Geheimtipp: Zum Würzen etwas Worchester Soße nutzen."
+    ],
+    "ingredients": [
+      {
+        "name": "Zwiebeln",
+        "amount": {
+          "min": 1,
+          "max": 2
+        },
+        "unit": "PIECE"
+      },
+      {
+        "name": "(Rinder) Hackfleisch",
+        "amount": 500,
+        "unit": "GRAMS"
+      },
+      {
+        "name": "Tomatenmark",
+        "amount": 0.5,
+        "unit": "TUBE"
+      },
+      {
+        "name": "Passierte Tomaten",
+        "amount": 1,
+        "unit": "PACK"
+      },
+      {
+        "name": "Gehackte Tomaten",
+        "amount": 1,
+        "unit": "CAN"
+      },
+      {
+        "name": "Spaghetti",
+        "amount": 0.5,
+        "unit": "PACK"
+      },
+      {
+        "name": "geribener Käse/Parmesan (nach Belieben)",
+        "amount": null,
+        "unit": "NONE"
+      }
+    ]
+  }
+]
