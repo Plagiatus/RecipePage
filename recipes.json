@@ -51,5 +51,89 @@
         "unit": "NONE"
       }
     ]
+  },
+  {
+    "id": "",
+    "defaultGroupsize": 2,
+    "name": "Pfannkuchen",
+    "duration": 10,
+    "categories": [],
+    "instructions": [
+      "Die Eier mit dem Zucker cremig aufschlagen, dann mit der Milch verrühren. Nun Salz, Mehl und Backpulver dazugeben und alles zu einem glatten Teig rühren.",
+      "Danach den Teig für ca. 15 Minuten ruhen lassen, da das Mehl noch ausquillt. Dann 1-2 große Schöpfkellen Teig in eine auf mittlere Hitze erhitzte, beschichtete Pfanne geben.",
+      "Nach ca. 2 Minuten bilden sich kleine Bläschen, dann den Pfannkuchen einmal wenden und von der anderen Seite schön goldbraun ausbacken. "
+    ],
+    "ingredients": [
+      {
+        "name": "Eier",
+        "amount": 4,
+        "unit": "PIECE"
+      },
+      {
+        "name": "Zucker",
+        "amount": 2,
+        "unit": "TABLESPOON"
+      },
+      {
+        "name": "Milch",
+        "amount": 400,
+        "unit": "MILLILITER"
+      },
+      {
+        "name": "Salz",
+        "amount": 1,
+        "unit": "PINCH"
+      },
+      {
+        "name": "Mehl",
+        "amount": 200,
+        "unit": "GRAMS"
+      },
+      {
+        "name": "Backpulver",
+        "amount": 1,
+        "unit": "MSP"
+      },
+      {
+        "name": "Öl, zum Braten",
+        "amount": null,
+        "unit": "NONE"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "defaultGroupsize": 2,
+    "name": "Kartoffel-gemüsesuppe mit opt. Wursteinlage",
+    "duration": 30,
+    "categories": [],
+    "instructions": [
+      "Kartoffeln schälen, vierteln oder kleiner (je kleiner, desto schneller werden sie gar!). Weiteres Gemüse (z.B. Karotten, Lauch, Sellerie, Zwiebeln, etc), kleinscheiden und ebenfalls dazu geben.",
+      "Mit Wasser bis knapp über die Füllhöhe auffüllen, das ganze mit Gemüsebrühe würzen und aufkochen, bis die Kartoffeln weich sind (ca. 20 Minuten). Alles mit dem Pürierstab passieren.",
+      "Die Wurst in Scheiben schneiden, zur Suppe dazugeben und ein paar Minuten warm werden lassen. Mit Gemüsebrühe, Salz, Pfeffer, Maggi, etc. abschmecken.",
+      "Das Rezept ist sehr flexibel, man kann das Gemüse variieren, z.B. mehr Karotten, Kürbis, Pastinaken, etc."
+    ],
+    "ingredients": [
+      {
+        "name": "Kartoffeln (mehlig)",
+        "amount": 500,
+        "unit": "GRAMS"
+      },
+      {
+        "name": "Gemüse, div. (z.B. Karotten, Lauch, Sellerie, etc)",
+        "amount": null,
+        "unit": "NONE"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": null,
+        "unit": "NONE"
+      },
+      {
+        "name": "Wurst (z.B. Cabanossi, Krakauer, Bauernmettwurst)",
+        "amount": 100,
+        "unit": "GRAMS"
+      }
+    ]
   }
 ]
