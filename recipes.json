@@ -108,7 +108,7 @@
     "duration": 30,
     "categories": [],
     "instructions": [
-      "Kartoffeln schälen, vierteln oder kleiner (je kleiner, desto schneller werden sie gar!). Weiteres Gemüse (z.B. Karotten, Lauch, Sellerie, Zwiebeln, etc), kleinscheiden und ebenfalls dazu geben.",
+      "Kartoffeln schälen, vierteln oder kleiner (je kleiner, desto schneller werden sie gar!). Weiteres Gemüse (z.B. Karotten, Lauch, Sellerie, Zwiebeln, etc), kleinschneiden und ebenfalls dazu geben.",
       "Mit Wasser bis knapp über die Füllhöhe auffüllen, das ganze mit Gemüsebrühe würzen und aufkochen, bis die Kartoffeln weich sind (ca. 20 Minuten). Alles mit dem Pürierstab passieren.",
       "Die Wurst in Scheiben schneiden, zur Suppe dazugeben und ein paar Minuten warm werden lassen. Mit Gemüsebrühe, Salz, Pfeffer, Maggi, etc. abschmecken.",
       "Das Rezept ist sehr flexibel, man kann das Gemüse variieren, z.B. mehr Karotten, Kürbis, Pastinaken, etc."
@@ -133,6 +133,102 @@
         "name": "Wurst (z.B. Cabanossi, Krakauer, Bauernmettwurst)",
         "amount": 100,
         "unit": "GRAMS"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "defaultGroupsize": 2,
+    "name": "UMAMI-Burger",
+    "duration": 30,
+    "categories": [],
+    "instructions": [
+      "Die Zwiebel und die Ingwerknolle kleinhacken (alternativ nur mit Ingwer würzen). Das Hackfleisch mit der Zwiebel, dem Imgwer, dem Eigelb, dem Steakpfeffer, der Soja Sauße und dem Parmesan zusammen in eine Schüssel geben und miteinander vermengen.",
+      "Aus der resultierenden Masse zwei Burgerpattys formen (alternativ zu kompakten Kugeln rollen und dann in der Pfanne klein drücken).",
+      "Aus der Tomate zwei große Scheiben herausschneiden und diese mit dem Zucker/Honig/Agavendicksaft großzügig bestreichen. Mit der Zuckerseite nach unten in der Pfanne auf mittlerer Hitze (mit Öl) etwas anbraten.",
+      "Währenddessen die Fleischpatties in der Pfanne anbraten. Nicht zu scharf, lieber etwas Zeit lassen. Die Tomate gelegentlich wenden und rechtzeitig aus der Pfanne nehmen, sonst verbrennt man sich die Zunge.",
+      "Empfehlung: Brioche Brötchen als Burgerbrötchen nutzen. Diese in der Pfanne mit anbraten.",
+      "Die Unterseite der Brötchen mit Kresse belegen, darauf die Karamelisierte Tomatenscheibe und darauf dann das Fleisch. Wer es mag kann darauf dann noch dünne Gewürzgurkenscheiben legen. Mit dem oberen Teil des Brötchens beenden.",
+      "Wichtig: keine sonstigen Soßen oder sonst irgendwas auf den Bruger mit drauf!"
+    ],
+    "ingredients": [
+      {
+        "name": "mageres Rinderhackfleisch",
+        "amount": 250,
+        "unit": "GRAMS"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": 1,
+        "unit": "PIECE"
+      },
+      {
+        "name": "Ingwer",
+        "amount": 0.5,
+        "unit": "PIECE"
+      },
+      {
+        "name": "große Tomate (Fleischtomate)",
+        "amount": 1,
+        "unit": "PIECE"
+      },
+      {
+        "name": "Eigelb",
+        "amount": 1,
+        "unit": "PIECE"
+      },
+      {
+        "name": "Parmesan, gerieben",
+        "amount": {
+          "min": 1.5,
+          "max": 2
+        },
+        "unit": "TABLESPOON"
+      },
+      {
+        "name": "Soja Sauße",
+        "amount": 1,
+        "unit": "TABLESPOON"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": 1,
+        "unit": "PIECE"
+      },
+      {
+        "name": "Brunnen-/Radieschenkresse",
+        "amount": 1,
+        "unit": "PIECE"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": 1,
+        "unit": "PIECE"
+      },
+      {
+        "name": "Gewürzgurken",
+        "amount": null,
+        "unit": "NONE"
+      },
+      {
+        "name": "Soja Sauße",
+        "amount": 1.5,
+        "unit": "TABLESPOON"
+      },
+      {
+        "name": "Steakpfeffer",
+        "amount": 1,
+        "unit": "TABLESPOON"
+      },
+      {
+        "name": "Zucker/Honig/Agavendicksaft",
+        "amount": null,
+        "unit": "NONE"
+      },
+      {
+        "name": "Olivenöl zum Anbraten",
+        "amount": null,
+        "unit": "NONE"
       }
     ]
   }
