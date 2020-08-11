@@ -297,7 +297,7 @@
     "duration": 60,
     "categories": [],
     "instructions": [
-      "Die Milch in einem kleinen Kopf lauwarm werden lassen. Die Hefe in 3-4 EL lauwarmer Milch und 1 TL Zucker auflösen. Das Mehl in eine Schüssel geben, darin die Hefe in eine Vertiefung geben. Die Hefe mit einem TL und Mehl andicken. Mit einem Handtuch abdecken und 15 Minuten gehen lassen.",
+      "Die Milch in einem kleinen Topf lauwarm werden lassen. Die Hefe in 3-4 EL dieser lauwarmen Milch und 1 TL Zucker auflösen. Das Mehl in eine Schüssel geben, darin die Hefe in eine Vertiefung geben. Die Hefe mit einem TL und Mehl andicken. Mit einem Handtuch abdecken und 15 Minuten gehen lassen.",
       "In der Zwischenzeit die Butter in der Milch auflösen. Darauf achten, dass die Milch nicht zu warm wird. Die nun aufgegangene Hefe mit etwas Mehl bedecken, die restlichen Zutaten hinzugeben und alles für 5 Minuten gut durchkneten. Nach Bedarf noch etwas Mehl nachgeben, der Teig darf aber gerne noch etwas klebrig sein. Ca. 45 Minuten mit einem Küchenhandtuch abgedeckt gehen lassen.",
       "Den Teig nochmal kurz durchkneten, dann nach Wunsch Formen und Dekorieren, z.B. in einen Zopf flechten. Wenn noch etwas (lauwarme) Milch übrig ist, kann man den Zopf damit bestreichen, das gibt eine schöne Farbe (und bietet eine gute Grundlage für Bestreuung mit z.B. Hagelzucker). Im vorgeheizten Backofen bei 200° Ober-Unterhitze 20-30 Minuten backen."
     ],
@@ -336,6 +336,70 @@
         "name": "(frische) Hefewürfel",
         "amount": 1,
         "unit": "PACK"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "defaultGroupsize": 4,
+    "name": "Linsen mit Spätzle",
+    "duration": 60,
+    "categories": [],
+    "instructions": [
+      "Die (trockenen) Linsen nach Packungsanleitung kochen. z.B. 3 Teile Wasser auf 1 Teil Linsen, 45 Minuten auf mittlerer Hitze kochen lassen, dabei möglichst nicht umrühren. Wer will kann auch noch Fleischbrühwürfel dazugeben.",
+      "Wenn noch ca. 20 Minuten übrig sind, die Zwiebel und den Knoblauch in der Butter leicht anbraten. Dann unter Rühren das Mehl dazugeben und etwas anbräunen. Mit 1-2 EL Tomatenmark vermischen, nochmal kurz anbraten und dann zu den Linsen geben.",
+      "Die Spätzle rechtzeitig nach Packungsanleitung kochen, die Linsen abtropfen lassen, dann mit Pfeffer, Salz und ggf. Essig abschmecken. Die Würstchen können entweder am Ende in den Linsen direkt mitgewärmt werden oder seperat gekocht werden."
+    ],
+    "ingredients": [
+      {
+        "name": "Linsen",
+        "amount": 400,
+        "unit": "GRAMS"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": 1,
+        "unit": "PIECE"
+      },
+      {
+        "name": "Knoblauchzehe",
+        "amount": 1,
+        "unit": "PIECE"
+      },
+      {
+        "name": "Spätzle",
+        "amount": 200,
+        "unit": "GRAMS"
+      },
+      {
+        "name": "Salz",
+        "amount": 1,
+        "unit": "PINCH"
+      },
+      {
+        "name": "Saitenwürstle",
+        "amount": 4,
+        "unit": "PIECE"
+      },
+      {
+        "name": "Essig",
+        "amount": null,
+        "unit": "NONE"
+      },
+      {
+        "name": "Tomatenmark",
+        "amount": null,
+        "unit": "NONE"
+      },
+      {
+        "name": "Mehl",
+        "amount": 2,
+        "unit": "TABLESPOON"
+      },
+      {
+        "name": "Butter",
+        "amount": 20,
+        "unit": "GRAMS"
       }
     ]
   }
