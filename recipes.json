@@ -231,5 +231,63 @@
         "unit": "NONE"
       }
     ]
+  },
+  {
+    "id": "",
+    "defaultGroupsize": 6,
+    "name": "Brioche (Burger-)Brötchen",
+    "duration": 60,
+    "categories": [],
+    "instructions": [
+      "Die Milch mit der Butter und dem Zucker in einem Topf leicht erwärmen, so dass die Butter schmilzt (nicht über 35°C werden lassen, also handwarm. Wenn sie doch wärmer wird, abkühlen lassen bevor es mit der Hefe vermischt wird).",
+      "Die Hefe, die Hälfte des Mehls, das Salz und die Milch-Butter-Zucker Mischung in einer Schüssel zusammenmischen und geschmeidig verbinden. Entweder mit den Fingern oder mit dem Rührgerät.",
+      "Das Ei in einer kleinen Schüssel verrühren und ungefähr die Hälfte davon in die große Schüssel dazu geben. Dann nach und nach mit dem restlichen Mehl vermischen.",
+      "Den Teig jetzt 10-15 Minuten kräftig durchkneten, bis er nicht mehr klebrig ist sondern eher glatt und geschmeidig. Den Teig in 6 Teile aufteilen (ca. 80-100g pro Brötchen), in eine Kugel formen und auf einem Backrost mit Backpapier auslegen.",
+      "Die Brötchen 30 Minuten an einem warmen Ort gehen lassen.",
+      "Nach Belieben: Mit dem restlichen Ei bestreichen und mit Sesam bestreuen. 12-15 Minuten bei 200° Ober-Unterhitze im vorgeheizten Backofen backen."
+    ],
+    "ingredients": [
+      {
+        "name": "Mehl",
+        "amount": 330,
+        "unit": "GRAMS"
+      },
+      {
+        "name": "Milch (3,5% oder mehr)",
+        "amount": 150,
+        "unit": "MILLILITER"
+      },
+      {
+        "name": "Butter",
+        "amount": 40,
+        "unit": "GRAMS"
+      },
+      {
+        "name": "Zucker",
+        "amount": 15,
+        "unit": "GRAMS"
+      },
+      {
+        "name": "Salz",
+        "amount": 5,
+        "unit": "GRAMS"
+      },
+      {
+        "name": "Ei",
+        "amount": 1,
+        "unit": "PIECE"
+      },
+      {
+        "name": "(frische) Hefewürfel",
+        "amount": 0.5,
+        "unit": "PACK"
+      },
+      {
+        "name": "(Sesam)",
+        "amount": null,
+        "unit": "NONE",
+        "optional": true
+      }
+    ]
   }
 ]
