@@ -289,5 +289,54 @@
         "optional": true
       }
     ]
+  },
+  {
+    "id": "",
+    "defaultGroupsize": 1,
+    "name": "Hefezopf",
+    "duration": 60,
+    "categories": [],
+    "instructions": [
+      "Die Milch in einem kleinen Kopf lauwarm werden lassen. Die Hefe in 3-4 EL lauwarmer Milch und 1 TL Zucker auflösen. Das Mehl in eine Schüssel geben, darin die Hefe in eine Vertiefung geben. Die Hefe mit einem TL und Mehl andicken. Mit einem Handtuch abdecken und 15 Minuten gehen lassen.",
+      "In der Zwischenzeit die Butter in der Milch auflösen. Darauf achten, dass die Milch nicht zu warm wird. Die nun aufgegangene Hefe mit etwas Mehl bedecken, die restlichen Zutaten hinzugeben und alles für 5 Minuten gut durchkneten. Nach Bedarf noch etwas Mehl nachgeben, der Teig darf aber gerne noch etwas klebrig sein. Ca. 45 Minuten mit einem Küchenhandtuch abgedeckt gehen lassen.",
+      "Den Teig nochmal kurz durchkneten, dann nach Wunsch Formen und Dekorieren, z.B. in einen Zopf flechten. Wenn noch etwas (lauwarme) Milch übrig ist, kann man den Zopf damit bestreichen, das gibt eine schöne Farbe (und bietet eine gute Grundlage für Bestreuung mit z.B. Hagelzucker). Im vorgeheizten Backofen bei 200° Ober-Unterhitze 20-30 Minuten backen."
+    ],
+    "ingredients": [
+      {
+        "name": "Mehl",
+        "amount": 750,
+        "unit": "GRAMS"
+      },
+      {
+        "name": "Milch",
+        "amount": 375,
+        "unit": "MILLILITER"
+      },
+      {
+        "name": "Butter",
+        "amount": 100,
+        "unit": "GRAMS"
+      },
+      {
+        "name": "Zucker",
+        "amount": 125,
+        "unit": "GRAMS"
+      },
+      {
+        "name": "Salz",
+        "amount": 1,
+        "unit": "PINCH"
+      },
+      {
+        "name": "Eier",
+        "amount": 2,
+        "unit": "PIECE"
+      },
+      {
+        "name": "(frische) Hefewürfel",
+        "amount": 1,
+        "unit": "PACK"
+      }
+    ]
   }
 ]
