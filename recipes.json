@@ -402,5 +402,48 @@
         "unit": "GRAMS"
       }
     ]
+  },
+  {
+    "id": "",
+    "defaultGroupsize": 2,
+    "name": "Milchreis nach Uromas Art",
+    "duration": 60,
+    "categories": [],
+    "instructions": [
+      "Den Reis nach Packungsanleitung kochen, währenddessen die Eier trennen und das Eigelb mit der Butter und dem Zucker schaumig aufschlagen. Außerdem getrennt das Eiweiß aufschlagen.",
+      "Den fertigen Reis zunächst mit der Eigelb-Mischung und dem Zitronensaft vermengen, dann das aufgeschlagene Eiweiß unterheben. Alles in eine ofenfeste Form geben und ~45 Minuten bei 150° Ober-Unterhitze backen."
+    ],
+    "ingredients": [
+      {
+        "name": "Milchreis",
+        "amount": 200,
+        "unit": "GRAMS"
+      },
+      {
+        "name": "Milch",
+        "amount": 500,
+        "unit": "MILLILITERS"
+      },
+      {
+        "name": "Butter",
+        "amount": 30,
+        "unit": "GRAMS"
+      },
+      {
+        "name": "Zucker ( / Honig / Agvendicksaft)",
+        "amount": 5,
+        "unit": "TABLESPOON"
+      },
+      {
+        "name": "Eier",
+        "amount": 2,
+        "unit": "PIECE"
+      },
+      {
+        "name": "Zitronensaft oder Vanillezucker",
+        "amount": null,
+        "unit": "NONE"
+      }
+    ]
   }
 ]
