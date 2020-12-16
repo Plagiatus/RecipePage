@@ -445,5 +445,82 @@
         "unit": "NONE"
       }
     ]
+  },
+  {
+    "id": "",
+    "defaultGroupsize": 4,
+    "name": "Mit Tomatenpesto gefülltes Huhn mit Alfredo Nudeln",
+    "duration": 60,
+    "categories": [],
+    "instructions": [
+      "Eine Tasche in die Hühnerbrüste schneiden und jeweils mit 2 klein geschnittenen Knoblauchzehen und einem Teelöffel Pesto füllen. Mit etwas Öl übergießen und mit Salz, Pfeffer, getrocknetem Basilikum und Knoblauchpulver würzen.",
+      "Die so vorbereiteten Hühnerbrüste in einen Metalltiegel (oder einfach ein Backblech) geben und bei 200°C für 30 Minuten backen. Diese werden dabei einiges an Flüssigkeit abgeben.",
+      "Während das Huhn backt, die Nudeln nach Packungsanleitung gar kochen. Währenddessen in einem großen Topf / einer tiefen Pfanne die Butter mit der Milch langam zum köcheln bringen.",
+      "Den Käse / Parmesan zum köchelnden Milch-Butter-Gemisch hinzufügen und zusammen aufkochen. Kochen lassen, bis die Sauße die Rückseite eines Löffels überzieht. Die Temperatur verringern und warten bis die Nudeln fertig sind.",
+      "Die fertig gekochten Nudeln nach dem Abtropfen in die Alfredosoße geben und vermengen. (Wenn die Soße noch zu flüssig ist, einfach etwas länger köcheln lassen)",
+      "Das Huhn vor dem Verzehr ein paar Minuten ruhen lassen, sonst ist es noch zu heiß."
+    ],
+    "ingredients": [
+      {
+        "name": "Hühnerbrust",
+        "amount": 4,
+        "unit": "PIECE"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": 8,
+        "unit": "PIECES"
+      },
+      {
+        "name": "Tomatenpesto",
+        "amount": 1,
+        "unit": "JAR"
+      },
+      {
+        "name": "Schlagsahne (36+% Fett)",
+        "amount": 250,
+        "unit": "GRAMS"
+      },
+      {
+        "name": "Vollmilch",
+        "amount": 250,
+        "unit": "MILLILITRE"
+      },
+      {
+        "name": "Pecorino Romano Käse (Parmesan)",
+        "amount": 1.5,
+        "unit": "CUP"
+      },
+      {
+        "name": "Butter",
+        "amount": 2,
+        "unit": "TEASPOON"
+      },
+      {
+        "name": "Butter",
+        "amount": 2,
+        "unit": "TEASPOON"
+      },
+      {
+        "name": "",
+        "amount": 2,
+        "unit": "TEASPOON"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": 2,
+        "unit": "TEASPOON"
+      },
+      {
+        "name": "Nudeln (Linguine (flache Spaghetti) o.ä.)",
+        "amount": 0.5,
+        "unit": "PACK"
+      },
+      {
+        "name": "Salz, Pfeffer, getrockneter Basilikum, Knoblauchpulver",
+        "amount": null,
+        "unit": "NONE"
+      }
+    ]
   }
 ]
