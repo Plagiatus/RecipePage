@@ -512,5 +512,68 @@
         "unit": "NONE"
       }
     ]
+  },
+  {
+    "id": "",
+    "defaultGroupsize": 4,
+    "name": "Nudelauflauf à la Carbonara",
+    "duration": 30,
+    "categories": [],
+    "instructions": [
+			"Zwei EL Sahne beiseite nehmen, diese brauchen wir am Ende.",
+      "Die Nudeln mit allen Zutaten bis einschließlich zur Gemüsebrühe in einen Schnellkochtopf (4l) geben und alles gut miteinander vermischen.",
+			"Den Tops auf höchster Stufe erhitzen bis der Schnellgarbereich erreicht ist.",
+			"Den Herd ausschalten aber den Topf 4 Minuten auf der noch heißen Herdplatte stehen lassen.",
+			"Den Druck ablassen (ggf unter fließendem Wasser) und nochmal alles miteinander vermengen.",
+			"Die Eier mit der vorher beiseite gelegten Sahne verrühren und zur Nudelmasse geben. Den Topf nochmal auf den Herd stellen und die Eier stocken lassen (ggf den Herd nochmals einschlaten).",
+			"Die Nudeln mit Pfeffer würzen und vor dem Servieren mit dem Parmesan vermengen."
+    ],
+    "ingredients": [
+      {
+        "name": "Pasta (z.B. Farfalle)",
+        "amount": 250,
+        "unit": "GRAMS"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": 2,
+        "unit": "PIECES"
+      },
+      {
+        "name": "Zwiebel, in Würfeln",
+        "amount": 1,
+        "unit": "PIECE"
+      },
+      {
+        "name": "Schlagsahne",
+        "amount": 250,
+        "unit": "MILLILITRE"
+      },
+      {
+        "name": "Speckwürfel",
+        "amount": 200,
+        "unit": "GRAMS"
+      },
+      {
+        "name": "kräftige Gemüsebrühe",
+        "amount": 300,
+        "unit": "MILLILITRE"
+      },
+      {
+        "name": "Parmesan",
+        "amount": 100,
+        "unit": "GRAMS"
+      },
+      {
+        "name": "Eier",
+        "amount": 2,
+        "unit": "PIECES"
+      },
+      {
+        "name": "Pfeffer",
+        "amount": null,
+        "unit": "NONE"
+      }
+    ]
   }
 ]
